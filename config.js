@@ -92,7 +92,7 @@ var config = {
     },
     // SoundCloud
     soundcloud: {
-        key : "" // Your SoundCloud API key
+        key : "8440a921b1b27b8e29b1dbb5791b39bb" // Your SoundCloud API key
     },
     traffic: {
       key : "Cjm3PQAhH6SLC34NT34Z~KuFXLuRhHLZLdzSO19mcNg~AjrMO7l6P5qWrn5VyMiBROvu60EhsWwRlZ0AJlwaLXMRe8xVabTZX5kEOLUD8MEv", // Bing Maps API Key
