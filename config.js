@@ -10,9 +10,9 @@ var config = {
     
     // Keyword Spotting (Hotword Detection)
     speech : {
-        keyword : "Lucy",
-        model : "lucy.pmdl", // The name of your model
-        sensitivity : 0.3, // Keyword getting too many false positives or not detecting? Change this.
+        keyword : "Smart Mirror",
+        model : "smart_mirror.pmdl", // The name of your model
+        sensitivity : 0.5, // Keyword getting too many false positives or not detecting? Change this.
         continuous: false // After a keyword is detected keep listening until speech is not heard
     },
     layout: "main",
