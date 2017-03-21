@@ -20,7 +20,7 @@
 function Xkcd($scope, $http, $interval) {
 
     getxkcd()
-    $interval(getxkcd, (1440 * 60000));
+    $interval(getxkcd, (60 * 60000));
 
     function getxkcd() {
         $http.jsonp("http://dynamic.xkcd.com/api-0/jsonp/comic?callback=JSON_CALLBACK")

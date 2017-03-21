@@ -94,6 +94,7 @@ dt {
 
 .top-right {
     float: right;
+    font-family: 'Open Sans', sans-serif;
 }
 
 .middle-center {
@@ -188,10 +189,11 @@ ul.calendar {
 }
 
 .weather {
-    margin-left: auto;
+    /*margin-left: auto;*/
     display: block;
-    text-align: right;
+    /*text-align: right;*/
     width: 230px;
+    margin-top: -10px;
 }
 
 .weather-today .temperature {
@@ -270,7 +272,7 @@ ul.calendar {
 }
 
 .time-to {
-    font-weight: bold;
+    /*font-weight: bold;*/
 }
 
 @keyframes reduce-dashoffset {
