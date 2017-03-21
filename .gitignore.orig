@@ -1,7 +1,10 @@
 node_modules
+<<<<<<< HEAD
+=======
 config.json
 config.js
 config.old.js
+>>>>>>> 031dca5b0d4632ad3b993fb5556536ae2d240e28
 .idea
 npm-debug.log
 .DS_Store
